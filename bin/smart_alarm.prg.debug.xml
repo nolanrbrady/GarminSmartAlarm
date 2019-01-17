@@ -11,21 +11,25 @@
 <entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="26" pc="268435549" symbol="onUpdate"/>
 <entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="27" pc="268435625" symbol="onUpdate"/>
 <entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="28" pc="268435649" symbol="onUpdate"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="33" pc="268435663" symbol="onUpdate"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="7" lineNum="39" pc="268435684" symbol="onHide"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="5" pc="268435689" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="6" pc="268435693" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="10" lineNum="10" pc="268435712" symbol="onStart"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="11" lineNum="14" pc="268435717" symbol="onStop"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="18" pc="268435722" symbol="getInitialView"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="19" pc="268435726" symbol="getInitialView"/>
-<entry filename="Rez" id="19" lineNum="21" pc="268435764" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="25" pc="268435776" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="26" pc="268435907" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="27" pc="268435959" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="28" pc="268436011" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="29" pc="268436144" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="32" pc="268436277" symbol="MainLayout"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="31" pc="268435663" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="32" pc="268435707" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="33" pc="268435785" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="34" pc="268435809" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="37" pc="268435823" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="7" lineNum="43" pc="268435844" symbol="onHide"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="5" pc="268435849" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="6" pc="268435853" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="10" lineNum="10" pc="268435872" symbol="onStart"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="11" lineNum="14" pc="268435877" symbol="onStop"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="18" pc="268435882" symbol="getInitialView"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="19" pc="268435886" symbol="getInitialView"/>
+<entry filename="Rez" id="19" lineNum="21" pc="268435924" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="25" pc="268435936" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="26" pc="268436067" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="27" pc="268436119" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="28" pc="268436171" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="29" pc="268436304" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="32" pc="268436437" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -64,16 +68,19 @@
 </symbolTable>
 <localVars>
 <entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
-<entry endPc="268435683" name="view" stackId="4" startPc="268435530"/>
-<entry endPc="268435683" name="timeString" stackId="3" startPc="268435530"/>
-<entry endPc="268435683" name="clockTime" stackId="2" startPc="268435530"/>
-<entry endPc="268435684" name="dc" stackId="1" startPc="268435526"/>
-<entry endPc="268435717" name="state" stackId="1" startPc="268435712"/>
-<entry endPc="268435722" name="state" stackId="1" startPc="268435717"/>
-<entry endPc="268436314" name="rez_cmp_local_bitmap_time_label" stackId="3" startPc="268435776"/>
-<entry endPc="268436314" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435776"/>
-<entry endPc="268436314" name="rez_cmp_local_bitmap_date_label" stackId="4" startPc="268435776"/>
-<entry endPc="268436315" name="dc" stackId="1" startPc="268435764"/>
+<entry endPc="268435843" name="view" stackId="4" startPc="268435530"/>
+<entry endPc="268435843" name="date" stackId="7" startPc="268435530"/>
+<entry endPc="268435843" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268435843" name="dateString" stackId="6" startPc="268435530"/>
+<entry endPc="268435843" name="dateInfo" stackId="5" startPc="268435530"/>
+<entry endPc="268435843" name="clockTime" stackId="2" startPc="268435530"/>
+<entry endPc="268435844" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435877" name="state" stackId="1" startPc="268435872"/>
+<entry endPc="268435882" name="state" stackId="1" startPc="268435877"/>
+<entry endPc="268436474" name="rez_cmp_local_bitmap_time_label" stackId="3" startPc="268435936"/>
+<entry endPc="268436474" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435936"/>
+<entry endPc="268436474" name="rez_cmp_local_bitmap_date_label" stackId="4" startPc="268435936"/>
+<entry endPc="268436475" name="dc" stackId="1" startPc="268435924"/>
 </localVars>
 <annotations/>
 <functions>

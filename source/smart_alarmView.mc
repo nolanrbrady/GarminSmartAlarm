@@ -28,7 +28,11 @@ class smart_alarmView extends WatchUi.View {
     		view.setText(timeString);
     	
 		// Find and update date on UI
-		   	
+		var dateInfo = Calendar.info(Time.now(), Calendar.FORMAT_SHORT);
+		var dateString = Lang.format("$1$/$2$/$3$", [dateInfo.month, dateInfo.day, dateInfo.year]);
+		var date = View.findDrawableById("date_label");
+			date.setText(dateString);
+			
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
     }
