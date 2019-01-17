@@ -1,3 +1,19 @@
 <layout id="MainLayout">
     <bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" />
+    <!-- Time Label Section -->
+    <label 
+    	id="time_label" 
+    	x="225" 
+    	y="60" 
+    	font="Gfx.FONT_LARGE" 
+    	justification="Gfx.TEXT_JUSTIFY_RIGHT" 
+    	color="Gfx.COLOR_WHITE" />
+    	<!-- Date Label Section -->
+    	<label 
+    	id="date_label" 
+    	x="225" 
+    	y="60" 
+    	font="Gfx.FONT_LARGE" 
+    	justification="Gfx.TEXT_JUSTIFY_RIGHT" 
+    	color="Gfx.COLOR_WHITE" />
 </layout>

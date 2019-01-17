@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="4" lineNum="10" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="4" lineNum="11" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="5" lineNum="17" pc="268435521" symbol="onShow"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="21" pc="268435526" symbol="onUpdate"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="23" pc="268435530" symbol="onUpdate"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="7" lineNum="29" pc="268435551" symbol="onHide"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="5" pc="268435556" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="6" pc="268435560" symbol="initialize"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="10" lineNum="10" pc="268435579" symbol="onStart"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="11" lineNum="14" pc="268435584" symbol="onStop"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="18" pc="268435589" symbol="getInitialView"/>
-<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="19" pc="268435593" symbol="getInitialView"/>
-<entry filename="Rez" id="19" lineNum="21" pc="268435631" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="25" pc="268435643" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="26" pc="268435774" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="27" pc="268435826" symbol="MainLayout"/>
-<entry filename="Rez" id="19" lineNum="30" pc="268435878" symbol="MainLayout"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="4" lineNum="12" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="4" lineNum="13" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="5" lineNum="19" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="23" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="25" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="26" pc="268435549" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="27" pc="268435625" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="28" pc="268435649" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="6" lineNum="33" pc="268435663" symbol="onUpdate"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmView.mc" id="7" lineNum="39" pc="268435684" symbol="onHide"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="5" pc="268435689" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="9" lineNum="6" pc="268435693" symbol="initialize"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="10" lineNum="10" pc="268435712" symbol="onStart"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="11" lineNum="14" pc="268435717" symbol="onStop"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="18" pc="268435722" symbol="getInitialView"/>
+<entry filename="/Users/NolanBrady/eclipse-workspace/smart_alarm/source/smart_alarmApp.mc" id="12" lineNum="19" pc="268435726" symbol="getInitialView"/>
+<entry filename="Rez" id="19" lineNum="21" pc="268435764" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="25" pc="268435776" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="26" pc="268435907" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="27" pc="268435959" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="28" pc="268436011" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="29" pc="268436144" symbol="MainLayout"/>
+<entry filename="Rez" id="19" lineNum="32" pc="268436277" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -41,6 +49,8 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="13" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
 <entry id="12" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8389345" symbol="rezId"/>
@@ -54,11 +64,16 @@
 </symbolTable>
 <localVars>
 <entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
-<entry endPc="268435551" name="dc" stackId="1" startPc="268435526"/>
-<entry endPc="268435584" name="state" stackId="1" startPc="268435579"/>
-<entry endPc="268435589" name="state" stackId="1" startPc="268435584"/>
-<entry endPc="268435895" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435643"/>
-<entry endPc="268435896" name="dc" stackId="1" startPc="268435631"/>
+<entry endPc="268435683" name="view" stackId="4" startPc="268435530"/>
+<entry endPc="268435683" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268435683" name="clockTime" stackId="2" startPc="268435530"/>
+<entry endPc="268435684" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435717" name="state" stackId="1" startPc="268435712"/>
+<entry endPc="268435722" name="state" stackId="1" startPc="268435717"/>
+<entry endPc="268436314" name="rez_cmp_local_bitmap_time_label" stackId="3" startPc="268435776"/>
+<entry endPc="268436314" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435776"/>
+<entry endPc="268436314" name="rez_cmp_local_bitmap_date_label" stackId="4" startPc="268435776"/>
+<entry endPc="268436315" name="dc" stackId="1" startPc="268435764"/>
 </localVars>
 <annotations/>
 <functions>

@@ -1,4 +1,6 @@
 using Toybox.WatchUi;
+using Toybox.Time as Time;
+using Toybox.Time.Gregorian as Calendar;
 
 class smart_alarmView extends WatchUi.View {
 
@@ -19,6 +21,14 @@ class smart_alarmView extends WatchUi.View {
 
     // Update the view
     function onUpdate(dc) {
+		// Find and update time on UI    	
+    	var clockTime = System.getClockTime();
+    	var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%.2d")]);
+    	var view = View.findDrawableById("time_label");
+    		view.setText(timeString);
+    	
+		// Find and update date on UI
+		   	
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
     }
